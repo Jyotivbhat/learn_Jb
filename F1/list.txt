@@ -1,0 +1,10 @@
+/home/swc/Desktop
+.
+..
+chromium-browser.desktop
+firefox.desktop
+learn
+list
+list.txt
+lxterminal.desktop
+user_info
